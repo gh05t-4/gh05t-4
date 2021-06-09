@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align='center'>
+  <h1>Hi there, I'm Karthik.</h1>
+</div>
 
 <!--
 **gh05t-4/gh05t-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
