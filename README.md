@@ -3,7 +3,7 @@
 </div>
 
 - 💻 Full-Stack Developer.
-- 🌱 Cyber Security Enthusiast [Web Application Penetration Testing, Reverse Engineering, Linux and Windows Privilege Escalation, Cryptography, etc.]
+- 🌱 Cyber Security Analyst [Web Application Penetration Testing, Reverse Engineering, Linux and Windows Privilege Escalation, Cryptography, etc.]
 
 <p align="center">
   <img src="Images/mountains.png" alt="Image of forest and mountains.">
